@@ -24,7 +24,7 @@ document.onkeypress = function (event) {
 
     guessesSoFar.push(userGuess); 
 
-    // If and else if statements 
+    // If and else if statements for user/computer guesses
 
     if (userGuess === computerGuess) {
         wins++;
