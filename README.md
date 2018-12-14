@@ -54,4 +54,4 @@ Psychic Game is an app that runs in the browser, and features dynamically update
 
 8. When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
 
-![alt text]([IMG]http://i66.tinypic.com/30ivy9f.png[/IMG])
+![alt text](http://i66.tinypic.com/30ivy9f.png)
