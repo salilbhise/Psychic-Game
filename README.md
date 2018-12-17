@@ -1,4 +1,4 @@
-# JavaScript Assignment - Psychic Game (Basic)
+# Psychic Game :crystal_ball:
 
 ## Overview
 
